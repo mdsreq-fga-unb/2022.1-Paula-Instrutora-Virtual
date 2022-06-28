@@ -1,0 +1,8 @@
+site_name: Paula Instrutora virtual
+
+nav:
+- Início: index.md
+
+theme: 
+  name: mkdocs
+
