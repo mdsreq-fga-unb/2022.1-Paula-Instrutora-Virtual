@@ -8,7 +8,7 @@
 
 ## 📄 Sobre o projeto
 
-    A Proposta desse projeto é desenvolver um Aplicativo para aparelhos celulares tipo smartphones com ferramentas visuais e auditivas interessantes e didáticas para a alfabetização inicial de indivíduos sejam com nenhuma ou pouca instrução. O aplicativo (App) terá o nome de PAULA - Paranoá Alfabetizando Usando Letramento Analógico. O aplicativo terá como atrativo palavras e dizeres regionais do Paranoá para que a população se sinta orgulhosa de ter um software que recrie suas origens e cultura nas citações de palavras que o aplicativo repetirá ao ser utilizado.
+A Proposta desse projeto é desenvolver um Aplicativo para aparelhos celulares tipo smartphones com ferramentas visuais e auditivas interessantes e didáticas para a alfabetização inicial de indivíduos sejam com nenhuma ou pouca instrução. O aplicativo (App) terá o nome de PAULA - Paranoá Alfabetizando Usando Letramento Analógico. O aplicativo terá como atrativo palavras e dizeres regionais do Paranoá para que a população se sinta orgulhosa de ter um software que recrie suas origens e cultura nas citações de palavras que o aplicativo repetirá ao ser utilizado.
 
 <br/>
 
@@ -18,7 +18,7 @@ As tecnologias foram determinadas de acordo com a necessidade das atividades a s
 
 | Frontend | Backend |
 | :------- | :-----: |
-| Flutter  | NodeJS  |
+| Flutter  | Django  |
 |          |  MySQL  |
 
 <br>
