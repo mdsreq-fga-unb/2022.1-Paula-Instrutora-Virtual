@@ -4,6 +4,7 @@ theme:
   name: material
   logo: assets/logo.png
   language: pt
+  extra_css: style.css
 
 nav:
   - Início: index.md
