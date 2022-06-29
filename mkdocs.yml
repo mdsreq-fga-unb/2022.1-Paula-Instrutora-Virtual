@@ -6,6 +6,5 @@ theme:
   language: pt
 
 nav:
-- Início: index.md
-- Visão do Produto e do Projeto: visaoProdutoProjeto.md
-
+  - Início: index.md
+  - Visão do Produto e do Projeto: visaoProdutoProjeto.md
