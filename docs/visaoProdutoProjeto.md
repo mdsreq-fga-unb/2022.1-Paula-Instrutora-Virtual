@@ -56,7 +56,7 @@ Analista de requisitos | Garantir a qualidade e clareza  dos requisitos, realiza
 | --------- | --------------- | ------------- | ---------------- |
 | Acompanhamento das Atividades em Andamento | Equipe de Requisitos/Desenvolvimento | Semanal/Diário | - Ata de reunião<br>- Relatório de situação do projeto |
 | Acompanhamento dos Riscos, Compromissos, Ações Pendentes, Indicadores | Equipe de Requisitos | Quinzenal | - Ata de reunião<br>-Relatório de situação do projeto |
-| Comunicar situação do projeto | Equipe Requisitos e Desenvolvimento | Cliente | Quinzenal | - Ata de reunião<br>- Relatório de Situação do Projeto |
+| Comunicar situação do projeto | Equipe Requisitos e Desenvolvimento<br> Cliente | Quinzenal | - Ata de reunião<br>- Relatório de Situação do Projeto |
 | Reuniões de sanar dúvidas entre as equipes de desenvolvimento e requisitos | Equipe de Requisitos e desenvolvimento | Semanal | Ata de reunião |
 
 ### 2.4 Gerenciamento de Riscos
