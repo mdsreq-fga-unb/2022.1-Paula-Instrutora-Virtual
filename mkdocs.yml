@@ -8,4 +8,6 @@ theme:
 
 nav:
   - Início: index.md
+  - Apresentações:
+    - Apresentação da Unidade 1: apresentacoes/unidade_1.md
   - Visão do Produto e do Projeto: visaoProdutoProjeto.md
