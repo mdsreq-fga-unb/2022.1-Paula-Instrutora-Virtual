@@ -47,8 +47,8 @@ Analista de requisitos | Garantir a qualidade e clareza  dos requisitos, realiza
 | ------ | ----------------- | ----------- | -------- |
 | Sprint 1 | Definição do Produto | 23/06/22 | 30/06/22
 | Sprint 2 | MVP e  Planejamento do Projeto e estudos das tecnologias. |30/06/22 | 07/07/22|
-| Sprint 3 | Funcionalidades A, B ,C … | 07/07/22 | 14/07/22 |
-| Sprint 4 | Funcionalidades D, E ,F … | 14/07/22 | 21/07/22 |
+| Sprint 3 | MVP e Planejamento do Projeto e estudos das tecnologias | 07/07/22 | 14/07/22 |
+| Sprint 4 | Funcionalidades A, B, … | 14/07/22 | 21/07/22 |
 
 ### 2.3 Matriz de Comunicação
 
@@ -139,17 +139,21 @@ Diante da abordagem estabelecida, deve-se definir como cada uma das atividades s
 
 #### MDS
 
-[Liste as lições aprendidas na retrospectiva, com ênfase especial nas ações a serem tomadas para melhorar, por exemplo: o ambiente de desenvolvimento, o processo ou a colaboração da equipe.]
+Na unidade 1 os ensinamentos aprendidos foram relacionados ao processo de desenvolvimento de software, métodos e metodologias, disciplinas de engenharia de software e ciclo de vida. Ademais, para melhorar nosso ambiente de desenvolvimento optamos por utilizar uma abordagem ágil e nos baseamos no framework Scrum, pois o design e a implementação do software são a base dessa abordagem.
+
+Como também, escolhemos o ciclo de vida evolutivo que se encaixa no nosso projeto, devido aos requisitos ainda estarem passíveis de mudança. Tais escolhas foram feitas a partir da abordagem de Sommerville, que nos nortearam a utilizar esse ciclo de vida e a utilizar o modelo de processos de desenvolvimento de software (Scrum).
 
 #### Requisitos
 
-A primeira unidade deu ao grupo instrução para que fosse possível a escolha de uma metodologia de desenvolvimento, visto que nenhum dos integrantes possuía conhecimento sobre esse assunto e não sabia qual metodologia se encaixaria melhor no projeto.
+A primeira unidade deu ao grupo instrução para que fosse possível a escolha de uma metodologia de desenvolvimento, visto que nenhum dos integrantes possuía conhecimento sobre esse assunto e não sabia qual metodologia se encaixaria melhor no projeto. E também foi iniciado o aprendizado de execução do planejamento de engenharia de requisitos.
 
 #### MDS-Requisitos
 
-[Liste as lições aprendidas na retrospectiva, com ênfase especial nas ações a serem tomadas para melhorar, por exemplo: o ambiente de desenvolvimento, o processo ou a colaboração da equipe.]
+Aprendemos um pouco sobre a dinâmica de cada membro da equipe e como nós iremos nos comunicar e delegar tarefas.
 
-### 5.2 Unidade 2
+Nesta primeira etapa, estabelecemos a comunicação entre equipes, entender as necessidades específicas de cada um para o conhecimento mútuo entre ambas as equipes.
+
+<!-- ### 5.2 Unidade 2
 
 #### MDS
 
@@ -161,23 +165,9 @@ A primeira unidade deu ao grupo instrução para que fosse possível a escolha d
 
 #### MDS-Requisitos
 
-[Liste as lições aprendidas na retrospectiva, com ênfase especial nas ações a serem tomadas para melhorar, por exemplo: o ambiente de desenvolvimento, o processo ou a colaboração da equipe.]
+[Liste as lições aprendidas na retrospectiva, com ênfase especial nas ações a serem tomadas para melhorar, por exemplo: o ambiente de desenvolvimento, o processo ou a colaboração da equipe.] -->
 
-### 5.3 Unidade 3
-
-#### MDS
-
-[Liste as lições aprendidas na retrospectiva, com ênfase especial nas ações a serem tomadas para melhorar, por exemplo: o ambiente de desenvolvimento, o processo ou a colaboração da equipe.]
-
-#### Requisitos
-
-A primeira unidade deu ao grupo instrução para que fosse possível a escolha de uma metodologia de desenvolvimento, visto que nenhum dos integrantes possuía conhecimento sobre esse assunto e não sabia qual metodologia se encaixaria melhor no projeto.
-
-#### MDS-Requisitos
-
-[Liste as lições aprendidas na retrospectiva, com ênfase especial nas ações a serem tomadas para melhorar, por exemplo: o ambiente de desenvolvimento, o processo ou a colaboração da equipe.]
-
-### 5.4 Unidade 4
+<!-- ### 5.3 Unidade 3
 
 #### MDS
 
@@ -189,12 +179,27 @@ A primeira unidade deu ao grupo instrução para que fosse possível a escolha d
 
 #### MDS-Requisitos
 
+[Liste as lições aprendidas na retrospectiva, com ênfase especial nas ações a serem tomadas para melhorar, por exemplo: o ambiente de desenvolvimento, o processo ou a colaboração da equipe.] -->
+
+<!-- ### 5.4 Unidade 4
+
+#### MDS
+
 [Liste as lições aprendidas na retrospectiva, com ênfase especial nas ações a serem tomadas para melhorar, por exemplo: o ambiente de desenvolvimento, o processo ou a colaboração da equipe.]
+
+#### Requisitos
+
+A primeira unidade deu ao grupo instrução para que fosse possível a escolha de uma metodologia de desenvolvimento, visto que nenhum dos integrantes possuía conhecimento sobre esse assunto e não sabia qual metodologia se encaixaria melhor no projeto.
+
+#### MDS-Requisitos
+
+[Liste as lições aprendidas na retrospectiva, com ênfase especial nas ações a serem tomadas para melhorar, por exemplo: o ambiente de desenvolvimento, o processo ou a colaboração da equipe.] -->
 
 ## 6 REFERÊNCIAS BIBLIOGRÁFICAS
-[Listar as referências utilizadas neste documento]
-1.
-[Descrição da referência]
+
+> [1]. Sommerville, Software Engineering, 2004 <br>
+> [2]. P. Bourque, SWEBOK Guide Call for Reviewers, May 2003. <br>
+> [3]. Ambler, S., Agile Modeling, Wiley, 2002. <br>
 
 ## 7 Histórico de Revisão
 
