@@ -53,8 +53,8 @@ Cliente | Comunicar sobre as necessidades de seu projeto | Yoko, Emerson | ---
 | Sprint 4 | Levantamento de Requisitos | 17/07/22 | 23/07/22 |
 | Sprint 5 | Refinamento de Requisitos | 24/07/22 | 30/07/22 |
 | Sprint 6 | Funcionalidades | 31/07/22 | 06/08/22 |
-| Sprint 7 | Funcionalidades | 31/07/22 | 06/08/22 |
-| Sprint 8 | Funcionalidades | 31/07/22 | 06/08/22 |
+| Sprint 7 | Funcionalidades | 07/08/22 | 13/08/22 |
+| Sprint 8 | Funcionalidades | 14/08/22 | 20/08/22 |
 
 ### 2.3 Matriz de Comunicação
 
@@ -220,3 +220,4 @@ A primeira unidade deu ao grupo instrução para que fosse possível a escolha d
 | 29/06/2022 | 1.2    | Adicionado documento à Github Pages | Rodrigo Santos
 | 29/06/2022 | 1.3    | Revisão do Documento de Visão Geral do Produto e Projeto | Cristian Furtado, Fellipe Pereira, Rodrigo Santos, Valderson Junior
 | 13/07/2022 | 1.4 | Revisão do documento | Cristian Furtado
+| 20/07/2022 | 1.5 | Adição de | Cristian Furtado, Fellipe Pereira, Rodrigo Santos, Valderson Junior

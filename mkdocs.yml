@@ -10,4 +10,6 @@ nav:
   - Início: index.md
   - Apresentações:
     - Apresentação da Unidade 1: apresentacoes/unidade_1.md
+    - Apresentação da Unidade 2: apresentacoes/unidade_2.md
+  - Histórico de Reuniões: reunioes.md
   - Visão do Produto e do Projeto: visaoProdutoProjeto.md
