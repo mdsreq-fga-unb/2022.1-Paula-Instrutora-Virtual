@@ -1,6 +1,6 @@
 site_name: PAULA Instrutora Virtual
 
-theme: 
+theme:
   name: material
   logo: assets/logo.png
   language: pt
@@ -8,6 +8,7 @@ theme:
 
 nav:
   - Início: index.md
-  - Apresentações:
-    - Apresentação da Unidade 1: apresentacoes/unidade_1.md
+  - Unidades:
+      - Apresentação da Unidade 1: apresentacoes/unidade_1.md
+      - Unidade 2: apresentacoes/unidade_2.md
   - Visão do Produto e do Projeto: visaoProdutoProjeto.md
