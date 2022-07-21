@@ -16,9 +16,9 @@ A Proposta desse projeto é desenvolver um Aplicativo para aparelhos celulares t
 
 As tecnologias foram determinadas de acordo com a necessidade das atividades a serem desenvolvidas.
 
-| Frontend | Backend |
-| :------- | :-----: |
-| Flutter  | Django<br>MySQL |
+| Frontend |    Backend    |
+| :------- | :-----------: |
+| Flutter  | FLas<br>MySQL |
 
 <br>
 <p align="left"> 
