@@ -1,0 +1,13 @@
+.md-logo img {
+  width: auto !important;
+  height: 35px !important;
+  margin: 0 !important;
+}
+
+.md-header-nav__button {
+  margin: 0;
+}
+
+.md-main {
+  background-color: whitesmoke;
+}
