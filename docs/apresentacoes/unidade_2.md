@@ -474,6 +474,10 @@ Seguir os mesmos passos acima, porém marcar os commtis que devem ser juntados c
         $ git checkout main
         $ git merge develop main
 
+## Links
+- Miro: https://miro.com/app/board/uXjVOlmsgS8=/?share_link_id=232261720961
+- Kambam: https://trello.com/invite/b/XvF7nMcm/b2143d4cd3b8cacc7e1092abfe4a3328/kanban-paula
+
 ## Referência bibliográfica:
 
 - https://git-scm.com/
@@ -488,3 +492,4 @@ Seguir os mesmos passos acima, porém marcar os commtis que devem ser juntados c
 | :--------:  | :----: | :-------: | :---: |
 | 20/07/2022 | 1.0.0  | Cria documento das apresentações de Unidade 2 e adiciona video de Requisitos | Cristian Furtado |
 | 20/07/2022 | 1.0.1 | Adiciona dojo de git | Equipe de MDS
+| 21/07/2022 | 1.0.2 | Adiciona links dos requisitos e kanbam | Cristian Furtado
