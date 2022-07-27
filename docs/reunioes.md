@@ -5,6 +5,7 @@
 | Elaboração do Canvas MVP | 13/08/2022| Equipe de Requisitos |
 | Conversa com o cliente           | 18/07/2022 | Yoko, Valderson, Fellipe, Emerson, Rodrigo | 
 | Preparação para entrega da Unidade 2 de Requisitos | 19,20/08/2022 | Equipe de Requisitos |
+| Refatoração do documento de visão | 26/07/2022 | Cristian, Valderson |
 
 <br>
 <br>

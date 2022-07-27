@@ -90,6 +90,7 @@ O processo de desenvolvimento de software será feito por uma abordagem ágil, o
 - Scrum/Kanban
 - Análise dos requisitos
 - Analise e design:
+
   |Atividade | Objetivo | Papel | Método | Ferramenta |
   |----------|----------|-------|--------|------------|
   |Definir design das interfaces | Criar um modelo das interfaces que serão desenvolvidas | Product Owner e Equipe de Desenvolvimento | "UCD, Design Iterativo" | Figma
@@ -97,12 +98,14 @@ O processo de desenvolvimento de software será feito por uma abordagem ágil, o
   |Revisão de interface | Validar a interface para o desenvolvimento | Equipe de Desenvolvimento | Reunião com o Product Owner e cliente |"Figma, Miro"
 
 - Implementação:
+
   |Atividade | Objetivo | Papel | Método | Ferramenta |
   |----------|----------|-------|--------|------------|
   |Codificação das Interfaces | Desenvolver as telas definidas pela sprint | Equipe de Desenvolvimento | Seguir o design definido anteriormente | Flutter
   |Codificação do banco de dados | Desenvolver o banco de dados definido pela sprint | Equipe de Desenvolvimento | Seguir o design definido anteriormente| MySQL
 
 - Testes:
+
   |Atividade | Objetivo | Papel | Método | Ferramenta |
   |----------|----------|-------|--------|------------|
   |Realizar Teste| Encontrar falhas no software| Equipe de Desenvolvimento| Testes manuais| xxx
@@ -110,11 +113,9 @@ O processo de desenvolvimento de software será feito por uma abordagem ágil, o
 
 ## 4 PROCESSO DE ENGENHARIA DE REQUISITOS
 
-O processo da engenharia de requisitos será feito por uma abordagem dirigida a ágil, onde a equipe de desenvolvimento irá trabalhar com as metodologias Scrum/Kanban, um híbrido que pode auxiliar no desenvolvimento do nosso projeto.
+O processo da engenharia de requisitos será feito por uma abordagem ágil, onde a equipe de desenvolvimento irá trabalhar com as metodologias Scrum/Kanban, um híbrido que pode auxiliar no desenvolvimento do nosso projeto.
 
 ### 4.1 Elicitação de Requisitos
-
-Diante da abordagem estabelecida, deve-se definir como cada uma das atividades será realizada, por meio de métodos e ferramentas. Pode-se, por exemplo, utilizar um quadro para expressar essas informações:
 
 | Atividade                                               | Método               | Ferramenta   | Entrega                          |
 | ------------------------------------------------------- | -------------------- | ------------ | -------------------------------- |
@@ -125,8 +126,10 @@ Diante da abordagem estabelecida, deve-se definir como cada uma das atividades s
 
 | Atividade                                                                             | Método  | Ferramenta           | Entrega                                                  |
 | ------------------------------------------------------------------------------------- | ------- | -------------------- | -------------------------------------------------------- |
-| Refinamento dos requisitos elicitados                                                 | Reunião | Framework SAFe       | Backlog refinado para avaliação                          |
 | Conversa com o cliente e com a equipe de desenvolvimento para verificar a viabilidade | Reunião | Discord/Google Meets | Lista de requisitos analisados que irão compor o Backlog |
+| Refinamento da lista de requisitos analisados | Reunião | Discord/Meets | Lista de requisitos com níveis de abstração próprios |
+| Definição do MVP/Épico com base nos requisitos refinados | Framework SAFe | Discord, Miro | MVP/Épico definido com suas features e histórias|
+| Definir critérios de aceitação | Entrevistas, reuniões em equipe | Discord | Histórias de usuários com critérios de aceitação |
 
 ### 4.3 Documentação de Requisitos
 
@@ -141,6 +144,7 @@ Diante da abordagem estabelecida, deve-se definir como cada uma das atividades s
 | ------------------------------------------------------------------------- | ----------------------------------------- | -------------------- | --------------------------------- |
 | Verificação da qualidade do código                                        | Inspeção, Walkthrough, Check-lists        | Discord              | Atualização do Backlog do produto |
 | Conversa com o cliente para verificar se o requisito está como o esperado | Reunião com toda a equipe e com o cliente | Discord/Google Meets | Atualização do Backlog do produto |
+
 
 ### 4.5 Gerenciamento de Requisitos
 
@@ -168,19 +172,20 @@ Aprendemos um pouco sobre a dinâmica de cada membro da equipe e como nós iremo
 
 Nesta primeira etapa, estabelecemos a comunicação entre equipes, entender as necessidades específicas de cada um para o conhecimento mútuo entre ambas as equipes.
 
-<!-- ### 5.2 Unidade 2
+### 5.2 Unidade 2
 
 #### MDS
 
-[Liste as lições aprendidas na retrospectiva, com ênfase especial nas ações a serem tomadas para melhorar, por exemplo: o ambiente de desenvolvimento, o processo ou a colaboração da equipe.]
+A colocar
 
 #### Requisitos
 
-A primeira unidade deu ao grupo instrução para que fosse possível a escolha de uma metodologia de desenvolvimento, visto que nenhum dos integrantes possuía conhecimento sobre esse assunto e não sabia qual metodologia se encaixaria melhor no projeto.
+A colocar
 
 #### MDS-Requisitos
 
-[Liste as lições aprendidas na retrospectiva, com ênfase especial nas ações a serem tomadas para melhorar, por exemplo: o ambiente de desenvolvimento, o processo ou a colaboração da equipe.] -->
+A colocar
+
 
 <!-- ### 5.3 Unidade 3
 
@@ -212,7 +217,7 @@ A primeira unidade deu ao grupo instrução para que fosse possível a escolha d
 
 ## 6 REFERÊNCIAS BIBLIOGRÁFICAS
 
-> [1]. Sommerville, Software Engineering, 2004 <br> > [2]. P. Bourque, SWEBOK Guide Call for Reviewers, May 2003. <br> > [3]. Ambler, S., Agile Modeling, Wiley, 2002. <br>
+> [1]. Sommerville, Software Engineering, 2004 <br> [2]. P. Bourque, SWEBOK Guide Call for Reviewers, May 2003. <br>  [3]. Ambler, S., Agile Modeling, Wiley, 2002. <br>
 
 ## 7 Histórico de Revisão
 
@@ -225,3 +230,4 @@ A primeira unidade deu ao grupo instrução para que fosse possível a escolha d
 | 29/06/2022 | 1.3    | Revisão do Documento de Visão Geral do Produto e Projeto | Cristian Furtado, Fellipe Pereira, Rodrigo Santos, Valderson Junior
 | 13/07/2022 | 1.4 | Revisão do documento | Cristian Furtado
 | 20/07/2022 | 1.5 | Revisão do documento | Cristian Furtado, Fellipe Pereira, Rodrigo Santos, Valderson Junior
+| 26/07/2022 | 1.6 | Revisão do documento | Cristian Furtado, Valderson Junior
