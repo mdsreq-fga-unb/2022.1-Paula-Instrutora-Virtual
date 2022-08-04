@@ -1,25 +1,53 @@
+# UNIDADE 2
+
 ## Requisitos 
+
+### Vídeo de apresentação da Unidade 2
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_CSYlLFAuyw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### Lista de requisitos
+
+#### Funcionais
+- RF1: O usuário deve poder fazer seu cadastro na plataforma
+- RF2: O usuário deve poder fazer login na plataforma com os dados fornecidos na fase de cadastro
+- RF3: O usuário deve poder acessar as lições e as atividades dentro de cada lição
+- RF4: O usuário deve poder ver o progresso alcançado no completar das lições
+- RF5: O usuário deve poder ver as informações de seu perfil (seu cadastro)
+- RF6: O usuário deve poder ser recompensado por ações feitas dentro do aplicativo
+- RF7: O usuário deve poder receber/visualizar um certificado por lições concluídas
+- RF8: O usuário deve poder receber notificações em seu celular sobre o aplicativo
+
+
+#### Não Funcionais
+- RNF1: O frontend do aplicativo deve ser desenvolvido em Flutter e o Backend em Python Django
+- RNF2: O aplicativo deverá ser desenvolvido utilizando as metodologias ágeis Scrum com XP em sprints de 1 semana
+- RNF3: O aplicativo deverá ser desenvolvido para Android de versão 8.0>
+- RNF4: O aplicativo precisa ser limitado à no máximo 100Mb de tamanho
+- RNF5: O aplicativo deve conter uma forma de redirecionamento para um canal de ajuda.
+
+
+### Kanbam Framework SAFe
+<img src="../../assets/framework_safe.png">
+
+### Canvas MVP
+<img src="../../assets/canvas_mvp.png">
+
+### Kanbam Trello
+<img src="../../assets/kambam_trello.png">
+
 ## Método de Desenvolvimento de Software
 
-# UNIDADE 2
 
-## Título: Como o git vai salvar a sua vida
-
-## Tema: Fundamentos do GIT
+### Título: Como o git vai salvar a sua vida
+### Tema: Fundamentos do GIT
 
 ### Integrantes que conduziram a ativdade:
 
 - Caio Berg Carlos Leite | 200015753 |
-
 - Emerson Luis Teles Dos Santos | 200017322 |
-
 - Lucas de Padua Bergamaschi | 200049429 |
-
 - Mateus De Almeida Dias | 190142260 |
-
 - Pedro Lucas Figueiredo Santana | 202017049 |
 
 ## Conteúdo:
@@ -474,9 +502,6 @@ Seguir os mesmos passos acima, porém marcar os commtis que devem ser juntados c
         $ git checkout main
         $ git merge develop main
 
-## Links
-- Miro: https://miro.com/app/board/uXjVOlmsgS8=/?share_link_id=232261720961
-- Kambam: https://trello.com/invite/b/XvF7nMcm/b2143d4cd3b8cacc7e1092abfe4a3328/kanban-paula
 
 ## Referência bibliográfica:
 
@@ -493,3 +518,4 @@ Seguir os mesmos passos acima, porém marcar os commtis que devem ser juntados c
 | 20/07/2022 | 1.0.0  | Cria documento das apresentações de Unidade 2 e adiciona video de Requisitos | Cristian Furtado |
 | 20/07/2022 | 1.0.1 | Adiciona dojo de git | Equipe de MDS
 | 21/07/2022 | 1.0.2 | Adiciona links dos requisitos e kanbam | Cristian Furtado
+| 03/07/2022 | 1.1 | Adiciona imagem ao invés dos links | Cristian Furtado

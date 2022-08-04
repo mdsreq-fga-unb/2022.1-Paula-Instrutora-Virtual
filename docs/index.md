@@ -18,7 +18,7 @@ As tecnologias foram determinadas de acordo com a necessidade das atividades a s
 
 | Frontend |    Backend    |
 | :------- | :-----------: |
-| Flutter  | FLas<br>MySQL |
+| Flutter  | Flask<br>MySQL |
 
 <br>
 <p align="left"> 
@@ -48,3 +48,16 @@ As tecnologias foram determinadas de acordo com a necessidade das atividades a s
 <br/>
 
 ## 📜 Documentação
+
+### MVP1:
+- RF1: Cadastrar usuário
+- RF2: Login de usuário
+- RF3: Visualizar (2) lições: Vogais e Consoantes
+- RF4: Visualizar Progresso
+- RF5: Página de informações do perfil
+
+### MVP2:
+- RF8: Mostrar notificações no celular
+- RF6: Visualizar recompensas
+- RF3: Visualizar (2) lições: Silabas e Palavras
+- RF7: Gerar certificados

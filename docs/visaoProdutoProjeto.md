@@ -152,6 +152,13 @@ O processo da engenharia de requisitos será feito por uma abordagem ágil, onde
 | ------------------------------------------------------------------------------ | ------------------------------------------------- | ------------------------- | ----------------------------------------------------------------- |
 | Colocar tags e nomes para identificar requisitos e rastreá-los mais fácilmente | Etiquetação de cada requisito por números e nomes | Trello, Discord, Telegram | Requisitos nomeados e priorizados, facilitados para gerenciamento |
 
+<br>
+
+O ciclo de vida de uma iteração (sprint) do time foi definida conforme a imagem abaixo, onde terá o prazo de uma semana cada sprint e esta começará na segunda-feira e se encerrará no sábado, onde haverá os ritos finais da sprint e o planejamento para a próxima.
+<br><br>
+
+<img src="../../assets/ciclo_desenvolvimento.png">
+
 ## 5 LIÇÕES APRENDIDAS
 
 ### 5.1 Unidade 1
@@ -180,11 +187,11 @@ A colocar
 
 #### Requisitos
 
-A colocar
+Nós como equipe responsável pelos requisitos, nesta unidade, aprendemos um pouco sobre a formatação e organização de requisitos pelo Framework SAFe e a separação destes requisitos em não funcionais e funcionais em formatos de épicos/features/estórias de usuários. Tivemos bastante dificuldade em entender e definir um nível de abstração ideal que se encaixasse nesses formatos, mas com aulões que tivemos pudemos tirar um pouco dessas dúvidas e corrigir nossa documentação.
 
 #### MDS-Requisitos
 
-A colocar
+Nesta unidade aprendemos um pouco mais sobre o funcionamento da equipe. Percebemos que ainda possuímos ruídos na nossa comunicação que atrapalham nas atividades de ambas as equipes, mas esperamos resolver isto para as próximas unidades.
 
 
 <!-- ### 5.3 Unidade 3
@@ -231,3 +238,4 @@ A primeira unidade deu ao grupo instrução para que fosse possível a escolha d
 | 13/07/2022 | 1.4 | Revisão do documento | Cristian Furtado
 | 20/07/2022 | 1.5 | Revisão do documento | Cristian Furtado, Fellipe Pereira, Rodrigo Santos, Valderson Junior
 | 26/07/2022 | 1.6 | Revisão do documento | Cristian Furtado, Valderson Junior
+| 03/08/2022 | 1.7 | Preenche campos de lições aprendidas e reformula ciclo de desenvolvimento e de ER | Cristian Furtado
