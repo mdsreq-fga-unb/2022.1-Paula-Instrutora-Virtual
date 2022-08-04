@@ -11,7 +11,7 @@
 #### Funcionais
 - RF1: O usuário deve poder fazer seu cadastro na plataforma
 - RF2: O usuário deve poder fazer login na plataforma com os dados fornecidos na fase de cadastro
-- RF3: O usuário deve poder acessar as lições e as atividades dentro de cada lição
+- RF3: O usuário deve poder realizar as lições e as atividades dentro de cada lição
 - RF4: O usuário deve poder ver o progresso alcançado no completar das lições
 - RF5: O usuário deve poder ver as informações de seu perfil (seu cadastro)
 - RF6: O usuário deve poder ser recompensado por ações feitas dentro do aplicativo
