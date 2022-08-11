@@ -52,19 +52,18 @@ A proposta desse projeto é desenvolver um aplicativo para aparelhos celulares, 
 | Sprint 3 | Levantamento de Requisitos | 10/07/22 | 16/07/22 |
 | Sprint 4 | Levantamento de Requisitos | 17/07/22 | 23/07/22 |
 | Sprint 5 | Refinamento de Requisitos | 24/07/22 | 30/07/22 |
-| Sprint 6 | Funcionalidades | 31/07/22 | 06/08/22 |
-| Sprint 7 | Funcionalidades | 07/08/22 | 13/08/22 |
-| Sprint 8 | Funcionalidades | 14/08/22 | 20/08/22 |
+| Sprint 6 | Funcionalidades do MVP1: RF1 e RF2 | 31/07/22 | 06/08/22 |
+| Sprint 7 | Funcionalidades do MVP1: RF1 e RF2 | 07/08/22 | 13/08/22 |
 
 
 ### 2.3 Matriz de Comunicação
 
 | Descrição                                                                  | Área/Envolvidos                                | Periodicidade  | Produtos Gerados                                           |
 | -------------------------------------------------------------------------- | ---------------------------------------------- | -------------- | ---------------------------------------------------------- |
-| Acompanhamento das Atividades em Andamento                                 | Equipe de Requisitos/Desenvolvimento           | Semanal/Diário | - Dailies                                                  |
-| Acompanhamento dos Riscos, Compromissos, Ações Pendentes, Indicadores      | Equipe de Requisitos                           | Quinzenal      | - Resumo de reunião<br>- Relatório de situação do projeto  |
-| Comunicar situação do projeto                                              | Equipe Requisitos e Desenvolvimento<br>Cliente | Quinzenal      | - Resumo de reunião<br>- Relatório de Situação do Projeto  |
-| Reuniões de sanar dúvidas entre as equipes de desenvolvimento e requisitos | Equipe de Requisitos e desenvolvimento         | Semanal        | - Resumo de reunião<br>- Retrospectiva e Revisão da Sprint |
+| Acompanhamento das Atividades em Andamento                                 | Equipe de Requisitos/Desenvolvimento           | Semanal/Diário | Dailies                                                  |
+| Acompanhamento dos Riscos, Compromissos, Ações Pendentes, Indicadores      | Equipe de Requisitos                           | Quinzenal      | Resumo de reunião<br> |
+| Comunicar situação do projeto                                              | Equipe Requisitos e Desenvolvimento e<br>Cliente | Quinzenal      | Resumo de reunião<br>|
+
 
 ### 2.4 Gerenciamento de Riscos
 
@@ -157,7 +156,8 @@ O processo da engenharia de requisitos será feito por uma abordagem ágil, onde
 O ciclo de vida de uma iteração (sprint) do time foi definida conforme a imagem abaixo, onde terá o prazo de uma semana cada sprint e esta começará na segunda-feira e se encerrará no sábado, onde haverá os ritos finais da sprint e o planejamento para a próxima.
 <br><br>
 
-<img src="../../assets/ciclo_desenvolvimento.png">
+<img src="./assets/ciclo_desenvolvimento.png">
+
 
 ## 5 LIÇÕES APRENDIDAS
 
@@ -239,3 +239,4 @@ A primeira unidade deu ao grupo instrução para que fosse possível a escolha d
 | 20/07/2022 | 1.5 | Revisão do documento | Cristian Furtado, Fellipe Pereira, Rodrigo Santos, Valderson Junior
 | 26/07/2022 | 1.6 | Revisão do documento | Cristian Furtado, Valderson Junior
 | 03/08/2022 | 1.7 | Preenche campos de lições aprendidas e reformula ciclo de desenvolvimento e de ER | Cristian Furtado
+| 03/08/2022 | 1.8 | Reformula as sprints e a matriz de comunicação | Cristian Furtado

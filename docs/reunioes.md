@@ -7,6 +7,7 @@
 | Preparação para entrega da Unidade 2 de Requisitos | 19,20/07/2022 | Equipe de Requisitos |
 | Refatoração do documento de visão | 26/07/2022 | Cristian, Valderson |
 | Refatoração do documento de visão e do framework SAFe, além de realização da atividade da criação de um Canvas BDD | 01, 03/08/2022 | Equipe de Requisitos |
+| Refatoração de US no Trello, alinhamento de situação com MDS e correção da documentação do Visão  | 10/08/2022 | Cristian, Fellipe, Valderson, Emerson |
 
 <br>
 <br>
@@ -16,3 +17,4 @@
 | ---------- | ------ | --------- | -----
 | 20/07/2022 | 1.0    | Cria documento de reuniões | Cristian Furtado |
 | 03/08/2022 | 1.1    | Adiciona reuniões de 18/07 a 03/08 | Cristian Furtado |
+| 10/08/2022 | 1.2  | Adiciona reunião de 12/08/2022 |Cristian Furtado |

@@ -28,13 +28,13 @@
 
 
 ### Kanbam Framework SAFe
-<img src="../../assets/framework_safe.png">
+<img src="../assets/framework_safe.png">
 
 ### Canvas MVP
-<img src="../../assets/canvas_mvp.png">
+<img src="../assets/canvas_mvp.png">
 
 ### Kanbam Trello
-<img src="../../assets/kambam_trello.png">
+<img src="../assets/kambam_trello.png">
 
 ## Método de Desenvolvimento de Software
 
