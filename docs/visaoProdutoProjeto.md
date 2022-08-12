@@ -45,15 +45,7 @@ A proposta desse projeto é desenvolver um aplicativo para aparelhos celulares, 
 
 ### 2.2 Planejamento das Fases e/ou Iterações do Projeto
 
-| Sprint | Produto (Entrega) | Data Início | Data Fim |
-| ------ | ----------------- | ----------- | -------- |
-| Sprint 1 | Definição do Produto | 26/06/22 | 02/07/22
-| Sprint 2 | Levantamento de Requisitos | 03/07/22 | 09/07/22 |
-| Sprint 3 | Levantamento de Requisitos | 10/07/22 | 16/07/22 |
-| Sprint 4 | Levantamento de Requisitos | 17/07/22 | 23/07/22 |
-| Sprint 5 | Refinamento de Requisitos | 24/07/22 | 30/07/22 |
-| Sprint 6 | Funcionalidades do MVP1: RF1 e RF2 | 31/07/22 | 06/08/22 |
-| Sprint 7 | Funcionalidades do MVP1: RF1 e RF2 | 07/08/22 | 13/08/22 |
+O ciclo de vida de uma iteração (sprint) do time foi pensada para ter o prazo de uma semana cada sprint e esta começará na segunda-feira e se encerrará no sábado, onde haverá os ritos finais da sprint e o planejamento para a próxima.
 
 
 ### 2.3 Matriz de Comunicação
@@ -151,82 +143,17 @@ O processo da engenharia de requisitos será feito por uma abordagem ágil, onde
 | ------------------------------------------------------------------------------ | ------------------------------------------------- | ------------------------- | ----------------------------------------------------------------- |
 | Colocar tags e nomes para identificar requisitos e rastreá-los mais fácilmente | Etiquetação de cada requisito por números e nomes | Trello, Discord, Telegram | Requisitos nomeados e priorizados, facilitados para gerenciamento |
 
+
+  As atividades listadas anteriormente tanto do processo da ER quanto do desenvolvimento do produto estão compreendidas dentro da sprint desta forma:
+
+  ![Ciclo Desenvolvimento](./img/ciclo_desenvolvimento.png) 
 <br>
 
-O ciclo de vida de uma iteração (sprint) do time foi definida conforme a imagem abaixo, onde terá o prazo de uma semana cada sprint e esta começará na segunda-feira e se encerrará no sábado, onde haverá os ritos finais da sprint e o planejamento para a próxima.
-<br><br>
-
-<img src="./img/ciclo_desenvolvimento.png">
-
-
-## 5 LIÇÕES APRENDIDAS
-
-### 5.1 Unidade 1
-
-#### MDS
-
-Na unidade 1 os ensinamentos aprendidos foram relacionados ao processo de desenvolvimento de software, métodos e metodologias, disciplinas de engenharia de software e ciclo de vida. Ademais, para melhorar nosso ambiente de desenvolvimento optamos por utilizar uma abordagem ágil e nos baseamos no framework Scrum, pois o design e a implementação do software são a base dessa abordagem.
-
-Como também, escolhemos o ciclo de vida evolutivo que se encaixa no nosso projeto, devido aos requisitos ainda estarem passíveis de mudança. Tais escolhas foram feitas a partir da abordagem de Sommerville, que nos nortearam a utilizar esse ciclo de vida e a utilizar o modelo de processos de desenvolvimento de software (Scrum).
-
-#### Requisitos
-
-A primeira unidade deu ao grupo instrução para que fosse possível a escolha de uma metodologia de desenvolvimento, visto que nenhum dos integrantes possuía conhecimento sobre esse assunto e não sabia qual metodologia se encaixaria melhor no projeto. E também foi iniciado o aprendizado de execução do planejamento de engenharia de requisitos.
-
-#### MDS-Requisitos
-
-Aprendemos um pouco sobre a dinâmica de cada membro da equipe e como nós iremos nos comunicar e delegar tarefas.
-
-Nesta primeira etapa, estabelecemos a comunicação entre equipes, entender as necessidades específicas de cada um para o conhecimento mútuo entre ambas as equipes.
-
-### 5.2 Unidade 2
-
-#### MDS
-
-A colocar
-
-#### Requisitos
-
-Nós como equipe responsável pelos requisitos, nesta unidade, aprendemos um pouco sobre a formatação e organização de requisitos pelo Framework SAFe e a separação destes requisitos em não funcionais e funcionais em formatos de épicos/features/estórias de usuários. Tivemos bastante dificuldade em entender e definir um nível de abstração ideal que se encaixasse nesses formatos, mas com aulões que tivemos pudemos tirar um pouco dessas dúvidas e corrigir nossa documentação.
-
-#### MDS-Requisitos
-
-Nesta unidade aprendemos um pouco mais sobre o funcionamento da equipe. Percebemos que ainda possuímos ruídos na nossa comunicação que atrapalham nas atividades de ambas as equipes, mas esperamos resolver isto para as próximas unidades.
-
-
-<!-- ### 5.3 Unidade 3
-
-#### MDS
-
-[Liste as lições aprendidas na retrospectiva, com ênfase especial nas ações a serem tomadas para melhorar, por exemplo: o ambiente de desenvolvimento, o processo ou a colaboração da equipe.]
-
-#### Requisitos
-
-A primeira unidade deu ao grupo instrução para que fosse possível a escolha de uma metodologia de desenvolvimento, visto que nenhum dos integrantes possuía conhecimento sobre esse assunto e não sabia qual metodologia se encaixaria melhor no projeto.
-
-#### MDS-Requisitos
-
-[Liste as lições aprendidas na retrospectiva, com ênfase especial nas ações a serem tomadas para melhorar, por exemplo: o ambiente de desenvolvimento, o processo ou a colaboração da equipe.] -->
-
-<!-- ### 5.4 Unidade 4
-
-#### MDS
-
-[Liste as lições aprendidas na retrospectiva, com ênfase especial nas ações a serem tomadas para melhorar, por exemplo: o ambiente de desenvolvimento, o processo ou a colaboração da equipe.]
-
-#### Requisitos
-
-A primeira unidade deu ao grupo instrução para que fosse possível a escolha de uma metodologia de desenvolvimento, visto que nenhum dos integrantes possuía conhecimento sobre esse assunto e não sabia qual metodologia se encaixaria melhor no projeto.
-
-#### MDS-Requisitos
-
-[Liste as lições aprendidas na retrospectiva, com ênfase especial nas ações a serem tomadas para melhorar, por exemplo: o ambiente de desenvolvimento, o processo ou a colaboração da equipe.] -->
-
-## 6 REFERÊNCIAS BIBLIOGRÁFICAS
+## 5 REFERÊNCIAS BIBLIOGRÁFICAS
 
 > [1]. Sommerville, Software Engineering, 2004 <br> [2]. P. Bourque, SWEBOK Guide Call for Reviewers, May 2003. <br>  [3]. Ambler, S., Agile Modeling, Wiley, 2002. <br>
 
-## 7 Histórico de Revisão
+## 6 Histórico de Revisão
 
 | Data       | Versão	| Descrição | Autor |
 | ---------- | ------ | --------- | -----
@@ -240,3 +167,4 @@ A primeira unidade deu ao grupo instrução para que fosse possível a escolha d
 | 26/07/2022 | 1.6 | Revisão do documento | Cristian Furtado, Valderson Junior
 | 03/08/2022 | 1.7 | Preenche campos de lições aprendidas e reformula ciclo de desenvolvimento e de ER | Cristian Furtado
 | 03/08/2022 | 1.8 | Reformula as sprints e a matriz de comunicação | Cristian Furtado
+| 11/08/2022 | 1.9 | Refatora o visão retirando as definições das sprints | Cristian Furtado
