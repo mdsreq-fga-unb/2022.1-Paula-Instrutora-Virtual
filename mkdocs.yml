@@ -2,9 +2,9 @@ site_name: PAULA Instrutora Virtual
 
 theme:
   name: material
-  logo: assets/logo.png
+  logo: img/logo.png
   language: pt
-  extra_css: style.css
+  extra_css: docs/style.css
 
 nav:
   - Início: index.md

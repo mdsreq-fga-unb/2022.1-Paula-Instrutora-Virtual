@@ -156,7 +156,7 @@ O processo da engenharia de requisitos será feito por uma abordagem ágil, onde
 O ciclo de vida de uma iteração (sprint) do time foi definida conforme a imagem abaixo, onde terá o prazo de uma semana cada sprint e esta começará na segunda-feira e se encerrará no sábado, onde haverá os ritos finais da sprint e o planejamento para a próxima.
 <br><br>
 
-<img src="./assets/ciclo_desenvolvimento.png">
+<img src="./img/ciclo_desenvolvimento.png">
 
 
 ## 5 LIÇÕES APRENDIDAS
