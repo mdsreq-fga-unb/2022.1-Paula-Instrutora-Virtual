@@ -28,9 +28,6 @@
 ### Canvas MVP
 ![Canvas MVP](./../img/canvas_mvp.png)
 
-### Kanbam Trello
-![Kambam Trello](./../img/kambam_trello.png)
-
 <br>
 <br>
 
