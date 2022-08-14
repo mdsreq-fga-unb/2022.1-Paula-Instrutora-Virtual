@@ -8,7 +8,9 @@ theme:
   features: navigation.tabs
   logo: img/logo.png
   language: pt_BR
-extra_css: docs/style.css
+
+extra_css:
+  - style.css
 
 nav:
   - Início: index.md
