@@ -1,10 +1,14 @@
 site_name: PAULA Instrutora Virtual
 
+repo_url: https://github.com/mdsreq-fga-unb/2022.1-Paula-Instrutora-Virtual
+edit_uri: ""
+
 theme:
   name: material
+  features: navigation.tabs
   logo: img/logo.png
-  language: pt
-  extra_css: docs/style.css
+  language: pt_BR
+extra_css: docs/style.css
 
 nav:
   - Início: index.md
