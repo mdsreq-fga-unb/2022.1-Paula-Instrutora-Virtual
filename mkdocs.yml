@@ -12,7 +12,10 @@ extra_css:
 
 nav:
   - Início: index.md
-  - Visão do Produto e do Projeto: visaoProdutoProjeto.md
+    - Visão do Produto e do Projeto: visaoProdutoProjeto.md
+    - Resumo Sprints: resumo_sprints/sprints.md
+    - Lições Aprendidas: licoes_aprendidas.md
+    - Histórico de Reuniões: reunioes.md
   - Apresentações:
     - Unidade 1: apresentacoes/unidade_1.md
     - Unidade 2: apresentacoes/unidade_2.md
@@ -21,10 +24,7 @@ nav:
     - Unidade 1: entregas/unidade_1.md
     - Unidade 2: entregas/unidade_2.md
     - Unidade 3: entregas/unidade_3.md
-  - Resumo Sprints: resumo_sprints/sprints.md
   - MVPs: mvps.md
-  - Lições Aprendidas: licoes_aprendidas.md
-  - Histórico de Reuniões: reunioes.md
 
 markdown_extensions:
   - attr_list
