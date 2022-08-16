@@ -31,19 +31,19 @@ Nós como equipe responsável pelos requisitos, nesta unidade, aprendemos um pou
 Nesta unidade aprendemos um pouco mais sobre o funcionamento da equipe. Percebemos que ainda possuímos ruídos na nossa comunicação que atrapalham nas atividades de ambas as equipes, mas esperamos resolver isto para as próximas unidades.
 
 
-<!-- ### 5.3 Unidade 3
+### 5.3 Unidade 3
 
 #### MDS
 
-[Liste as lições aprendidas na retrospectiva, com ênfase especial nas ações a serem tomadas para melhorar, por exemplo: o ambiente de desenvolvimento, o processo ou a colaboração da equipe.]
+A preencher.
 
 #### Requisitos
 
-A primeira unidade deu ao grupo instrução para que fosse possível a escolha de uma metodologia de desenvolvimento, visto que nenhum dos integrantes possuía conhecimento sobre esse assunto e não sabia qual metodologia se encaixaria melhor no projeto.
+Uma lição que o grupo de requisitos aprendeu foi o uso de diferentes framework para organização de requisitos, como o PBB e o User Story Mapping. Com o último, foi possível ver com mais clareza as ideias e necessidades do projeto, pois cada card do backbone (Necessidades e passos dentro delas) tinha sua "espinha", que são detalhes de cada item respectivo do backbone. Esses detalhes fornecem de fato uma visão mais abrangente sobre cada necessidade do projeto e ainda "geram" histórias de usuários mais facilmente.
 
 #### MDS-Requisitos
 
-[Liste as lições aprendidas na retrospectiva, com ênfase especial nas ações a serem tomadas para melhorar, por exemplo: o ambiente de desenvolvimento, o processo ou a colaboração da equipe.] -->
+A preencher.
 
 <!-- ### 5.4 Unidade 4
 
