@@ -29,6 +29,6 @@
 ![Modelo de Arquitetura](./../img/4.png)
 ![Modelo de Arquitetura](./../img/5.png)
 
-![Modelo de CLasses de Produto](./../img/Diagrama_de_Classes.png)
+![Modelo de Classes de Produto](./../img/Diagrama_de_Classes.jpeg)
 
 
