@@ -16,3 +16,16 @@
 
 ## Kamban User Story Mapping
 ![USM](./../img/USM.png)
+
+# Time de Requisitos 
+<br>
+
+## Slide Modelo de Arquitetura
+
+
+![Modelo de Arquitetura](./../img/1.png)
+(./../img/2.png)
+(./../img/3.png)
+(./../img/4.png)
+(./../img/5.png)
+
