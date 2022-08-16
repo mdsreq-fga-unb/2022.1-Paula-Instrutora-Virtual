@@ -31,4 +31,8 @@
 
 ![Modelo de Classes de Produto](./../img/Diagrama_de_Classes.jpeg)
 
+## Link para o apk
+
+https://drive.google.com/file/d/1Ca3aX9M5T_MvI0tYWR7n2OfCpfZ-7GbK/view?usp=sharing
+
 
