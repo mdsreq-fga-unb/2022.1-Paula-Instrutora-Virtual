@@ -24,8 +24,11 @@
 
 
 ![Modelo de Arquitetura](./../img/1.png)
-(./../img/2.png)
-(./../img/3.png)
-(./../img/4.png)
-(./../img/5.png)
+![Modelo de Arquitetura](./../img/2.png)
+![Modelo de Arquitetura](./../img/3.png)
+![Modelo de Arquitetura](./../img/4.png)
+![Modelo de Arquitetura](./../img/5.png)
+
+![Modelo de CLasses de Produto](./../img/Diagrama_de_Classes.png)
+
 
