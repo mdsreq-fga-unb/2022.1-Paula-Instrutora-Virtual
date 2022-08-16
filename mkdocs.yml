@@ -1,14 +1,22 @@
 site_name: PAULA Instrutora Virtual
 
+repo_url: https://github.com/mdsreq-fga-unb/2022.1-Paula-Instrutora-Virtual
+
 theme:
   name: material
+  features: navigation.tabs
   logo: img/logo.png
-  language: pt
-  extra_css: docs/style.css
+
+extra_css:
+  - style.css
 
 nav:
-  - Início: index.md
-  - Visão do Produto e do Projeto: visaoProdutoProjeto.md
+  - Início:
+    - Inicio: index.md
+    - Visão do Produto e do Projeto: visaoProdutoProjeto.md
+    - Resumo Sprints: resumo_sprints/sprints.md
+    - Lições Aprendidas: licoes_aprendidas.md
+    - Histórico de Reuniões: reunioes.md
   - Apresentações:
     - Unidade 1: apresentacoes/unidade_1.md
     - Unidade 2: apresentacoes/unidade_2.md
@@ -21,3 +29,6 @@ nav:
   - Lições Aprendidas: licoes_aprendidas.md
   - Sprints: sprints.md
   - Histórico de Reuniões: reunioes.md
+
+markdown_extensions:
+  - attr_list
