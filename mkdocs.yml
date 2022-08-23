@@ -14,7 +14,7 @@ nav:
   - Início:
     - Inicio: index.md
     - Visão do Produto e do Projeto: visaoProdutoProjeto.md
-    - Resumo Sprints: resumo_sprints/sprints.md
+    - Resumo Sprints: sprints.md
     - Lições Aprendidas: licoes_aprendidas.md
     - Histórico de Reuniões: reunioes.md
   - Apresentações:
@@ -29,6 +29,7 @@ nav:
   - Lições Aprendidas: licoes_aprendidas.md
   - Sprints: sprints.md
   - Histórico de Reuniões: reunioes.md
+  - Kanbans: kanbans.md
 
 markdown_extensions:
   - attr_list
