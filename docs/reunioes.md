@@ -10,7 +10,8 @@
 | Refatoração de US no Trello, alinhamento de situação com MDS e correção da documentação do Visão  | 10/08/2022 | Cristian, Fellipe, Valderson, Emerson |
 | Reunião com o cliente para validar o MVP1, em que foram mostradas as telas de login e cadastro, recebendo a aprovação da professora | 13/08/2022 | Yoko, Emerson, Fellipe |
 | Refatoração da Documentação e organização para entrega dos artefatos da Unidade 3 | 15/08/2022 | Equipe de Requisitos, Equipe de MDS |
-| Realinhamento de tarefas entre MDS e REQ e refatoração de documento com base no feedback da entrega da Unidade 3 |  22/08/2022 | Equipe de MDS e REQ | 
+| Realinhamento de tarefas entre MDS e REQ e refatoração de documento com base no feedback da entrega da Unidade 3 |  22/08/2022 | Equipe de MDS e REQ |
+| Realinhamento de tarefas entre MDS e REQ |  30/08/2022 | Equipe de MDS e REQ | 
 
 <br>
 <br>
@@ -24,3 +25,4 @@
 | 10/08/2022 | 1.2 | Adiciona reunião de 12/08/2022 |Cristian Furtado |
 | 15/08/2022 | 1.3 | Adiciona reuniões de 15/08/2022 | Cristian Furtado |
 | 22/08/2022 | 1.4 | Adiciona reunião de 22/08/2022 | Cristian Furtado |
+| 30/08/2022 | 1.5 | Adiciona reunião de 30/08/2022 | Cristian Furtado |
