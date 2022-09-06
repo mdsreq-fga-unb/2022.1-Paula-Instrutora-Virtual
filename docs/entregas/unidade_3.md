@@ -1,11 +1,11 @@
 # Time de Requisitos 
 <br>
 
-## Kamban Framework SAFe
+##Framework SAFe
 
 ![SAFe 3](./../img/safe_unidade_3.png)
 
-## Kamban PBB/BDD
+##PBB/BDD
 
 #### PBB
 ![PBB](./../img/PBB.png)
@@ -13,7 +13,7 @@
 #### BDD
 ![BDD](./../img/BDD.png)
 
-## Kamban User Story Mapping
+##User Story Mapping
 ![USM](./../img/USM.png)
 
 # Time de Métodos de Desenvolvimento de Software 

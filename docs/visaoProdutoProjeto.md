@@ -152,21 +152,38 @@ O processo da engenharia de requisitos será feito por uma abordagem ágil, onde
 
 ## 5 BACKLOG DO PRODUTO
 
-| EPICO | FEATURE | US |
-| :---  | :--- | :--- |
-| PAULA | (F3) Visualizar próprio perfil | (F3US1) *Eu como usuário quero poder acessar configurações dentro do aplicativo para modificar dados de cadastro* |
-| | | (F3US2) *Eu como usuário quero visualizar o meu perfil com todos as recompensas ganhas, dados e certificados* |
-| | (F4) Mostrar notificações | (F4US1) *Eu como usuário, gostaria de receber lembretes com mensagens de motivação para me manter motivado ao usar o aplicativo* 
-| | | (F4US2) *Eu como usuário, gostaria de receber lembretes para me recordar de realizar as lições*|
-| | (F5) Possuir atividades | (F5US1) *Eu como usuário quero poder ver as lições disponíveis no aplicativo para acessar suas atividades*|
-| | | (F5US2) *Eu como usuário, gostaria de  visualizar o progresso de término das lições do aplicativo para me orientar*|
-| | (F6) Realizar Login | (F6US1) *Eu como usuário quero poder recuperar minha senha para voltar a ter acesso à plataforma* |
-| | | (F6US2) *Eu como usuário quero poder fazer login na plataforma com os dados do meu cadastro para ter acesso ao conteúdo do aplicativo*|
-| | (F7) Possuir sistema de recompensas | (F7US1) *Eu como usuário quero receber recompensas dentro do aplicativo diariamente por login*|
-| | | (F7US2) *Eu como usuário quero receber recompensas dentro do aplicativo após a execução de alguma atividade*|
-| | | (F7US3) *Eu como usuário quero, após a conclusão de todas as atividades, receber um certificado para comprovar minha aprendizagem*|
-| | (F8) Realizar Cadastro | (F8US1) *Eu como usuário quero que meu progresso seja salvo para não perder o que já fiz dentro do aplicativo* |
-| | | (F8US2) *Eu como usuário, gostaria de poder me cadastrar para ter acesso ao conteúdo do aplicativo* |
+| TEMA | EPICO | FEATURE | US |
+| :---  | :---  | :--- | :--- |
+| **PAULA** | **(E1) Gerenciamento de usuário** | (F1) Realizar Login | (F1US1) *Eu como usuário quero poder recuperar minha senha para voltar a ter acesso à plataforma* |
+| | | | (F1US2) *Eu como usuário quero poder fazer login na plataforma com os dados do meu cadastro para ter acesso ao conteúdo do aplicativo* |
+| | | | (F1US3) *Eu como usuário quero receber recompensas dentro do aplicativo diariamente por login* |
+| | | (F2) Realizar Cadastro | (F2US1) *Eu como usuário quero que meu progresso seja salvo para não perder o que já fiz dentro do aplicativo* 
+| | | | (F2US2) *Eu como usuário, gostaria de poder me cadastrar para ter acesso ao conteúdo do aplicativo*|
+| | | (F3) Visualizar próprio perfil | (F3US1) *Eu como usuário quero poder acessar configurações dentro do aplicativo para modificar dados de cadastro*|
+| | | | (F3US2) *Eu como usuário quero visualizar o meu perfil com todos as recompensas ganhas, dados e certificados*|
+| | **(E2) Módulo de Vogais** | (F4) Lição A & E & U |(F4US1) *Eu como usuário desejo fazer atividades de "Marque a Vogal" relacionadas a lição de vogais A & E & U* |
+| | | | (F4US2) *Eu como usuário desejo fazer atividades de "Selecionar Imagem" relacionadas a lição de vogais A & E & U*|
+| | | | (F4US3) *Eu como usuário desejo fazer atividades de "Completar Palavras" relacionadas a lição de vogais A & E & U*|
+| | | | (F4US4) *Eu como usuário desejo fazer atividades de "Selecionar Vogal" relacionadas a lição de vogais A & E & U*|
+| | | | (F4US5) *Eu como usuário desejo visualizar uma explicação sobre o conteúdo da lição atual relacionadas a lição de vogais A & E & U*|
+| | | | (F4US6) *Eu como usuário, gostaria de  visualizar o progresso  da lição das vogais A & E & U*|
+| | | (F5) Lição I & O | (54US1) *Eu como usuário desejo fazer atividades de "Marque a Vogal" relacionadas a lição de vogais I & O* |
+| | | | (F5US2) *Eu como usuário desejo fazer atividades de "Selecionar Imagem" relacionadas a lição de vogais I & O*|
+| | | | (F5US3) *Eu como usuário desejo fazer atividades de "Completar Palavras" relacionadas a lição de vogais I & O*|
+| | | | (F5US4) *Eu como usuário desejo fazer atividades de "Selecionar Vogal" relacionadas a lição de vogais I & O*|
+| | | | (F5US5) *Eu como usuário desejo visualizar uma explicação sobre o conteúdo da lição atual relacionadas a lição de vogais I & O*|
+| | | | (F5US6) *Eu como usuário, gostaria de  visualizar o progresso  da lição das vogais I & O*|
+| | | | (F7US2) *Eu como usuário quero receber recompensas dentro do aplicativo após a execução de alguma atividade*|
+| | | | (F7US3) *Eu como usuário quero, após a conclusão de todas as atividades, receber um certificado para comprovar minha aprendizagem*|
+| | | (F6) Lição Final | (F6US1) *Eu como usuário desejo fazer atividades de "Marque a Vogal" da lição final* |
+| | | | (F6US2) *Eu como usuário desejo fazer atividades de "Selecionar Imagem" da lição final* |
+| | | | (F6US3) *Eu como usuário desejo fazer atividades de "Completar Palavras" da lição final* |
+| | | | (F6US4) *Eu como usuário desejo fazer atividades de "Selecionar Vogal" da lição final* |
+| | | | (F6US5) *Eu como usuário, gostaria de receber uma recompensa ao término da lição final de Vogais* |
+| | | (F7) Mostrar Notificações | (F7US1) *Eu como usuário, gostaria de receber notificações periódicas com frases de motivação para me manter motivado para usar o aplicativo* |
+| | | | (F7US2) *Eu como usuário, gostaria de receber lembretes para me recordar de realizar as lições de Vogais* |
+| | | (F8) Visualizar módulo de Vogais | (F8US1) *Eu como usuário gostaria de visualizar o módulo de Vogais para acessar suas lições* |
+| | | | (F8US2) *Eu como usuário gostaria de visualizar as lições do módulo  para acessar suas atividades* |
 
 
 ## 6 REFERÊNCIAS BIBLIOGRÁFICAS
@@ -190,3 +207,4 @@ O processo da engenharia de requisitos será feito por uma abordagem ágil, onde
 | 11/08/2022 | 1.9 | Refatora o visão retirando as definições das sprints | Cristian Furtado
 | 13/08/2022 | 2.0 | Adiciona o Product Backlog ao docunmento de visão | Cristian Furtado
 | 15/08/2022 | 2.1 | Retira (F1) e (F2) e suas respectivas US's e retira (F8US3) | Cristian, Valderson
+| 05/09/2022 | 2.1 | Refatora o Product Backlog praticamente todo: adiciona dois novos épicos (E1) e (E2), realoca US e FE que já existiam para dentro destes épicos e retira (F9US3) devido a imposssibilidade de completá-lo  | Cristian Furtado
