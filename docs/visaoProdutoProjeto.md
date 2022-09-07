@@ -104,7 +104,10 @@ O processo de desenvolvimento de software será feito por uma abordagem ágil, o
 
 ## 4 PROCESSO DE ENGENHARIA DE REQUISITOS
 
-O processo da engenharia de requisitos será feito por uma abordagem ágil, onde a equipe de desenvolvimento irá trabalhar com as metodologias Scrum/Kanban, um híbrido que pode auxiliar no desenvolvimento do nosso projeto.
+O processo da engenharia de requisitos será feito por uma abordagem ágil, onde a equipe de desenvolvimento irá trabalhar com as metodologias Scrum/Kanban, um híbrido que pode auxiliar no desenvolvimento do nosso projeto, conforme indica a imagem abaixo.
+
+![Gráfico elucidando um ciclo de um processo da engenharia de requisitos](./../img/grafico_ciclo_requisitos.png)
+
 
 ### 4.1 Elicitação de Requisitos
 
@@ -208,3 +211,4 @@ O processo da engenharia de requisitos será feito por uma abordagem ágil, onde
 | 13/08/2022 | 2.0 | Adiciona o Product Backlog ao docunmento de visão | Cristian Furtado
 | 15/08/2022 | 2.1 | Retira (F1) e (F2) e suas respectivas US's e retira (F8US3) | Cristian, Valderson
 | 05/09/2022 | 2.1 | Refatora o Product Backlog praticamente todo: adiciona dois novos épicos (E1) e (E2), realoca US e FE que já existiam para dentro destes épicos e retira (F9US3) devido a imposssibilidade de completá-lo  | Cristian Furtado
+| 06/09/2022 | 2.2 | Adiciona imagem do ciclo da engenharia de requisitos  | Cristian Furtado
