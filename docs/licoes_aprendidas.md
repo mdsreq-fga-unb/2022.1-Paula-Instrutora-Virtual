@@ -65,3 +65,4 @@ A primeira unidade deu ao grupo instrução para que fosse possível a escolha d
 | Data       | Versão	| Descrição | Autor |
 | ---------- | ------ | --------- | -----
 | 11/08/2022 | 1.0    | Cria documento e preenche com as lições aprendidas nas unidades 1 e 2 | Cristian Furtado
+| 16/08/2022 | 1.1    | Preenche lições aprendidas na unidade 3 pela equipe de Requisitos | Cristian Furtado

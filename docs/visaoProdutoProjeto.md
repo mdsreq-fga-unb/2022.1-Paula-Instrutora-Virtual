@@ -75,7 +75,10 @@ O ciclo de vida de uma iteração (sprint) do time foi pensada para ter o prazo 
 
 ## 3 PROCESSO DE DESENVOLVIMENTO DE SOFTWARE
 
-O processo de desenvolvimento de software será feito por uma abordagem ágil, onde a equipe de desenvolvimento terá fixo o tempo e os recursos, no caso o período letivo do semestre, com os requisitos variáveis, priorizados pelo cliente.
+O processo de desenvolvimento de software será feito por uma abordagem ágil, onde a equipe de desenvolvimento terá fixo o tempo e os recursos, no caso o período letivo do semestre, com os requisitos variáveis, priorizados pelo cliente.<br>
+Cada etapa deste processo seguirá conforme mostra a imagem abaixo:
+
+![Gráfico elucidando um ciclo de um processo de desenvolvimento](./img/grafico_ciclo_dev.png)
 
 - Ciclo de vida evolutivo
 - Scrum/Kanban
@@ -107,7 +110,7 @@ O processo de desenvolvimento de software será feito por uma abordagem ágil, o
 O processo da engenharia de requisitos será feito por uma abordagem ágil, onde a equipe de desenvolvimento irá trabalhar com as metodologias Scrum/Kanban, um híbrido que pode auxiliar no desenvolvimento do nosso projeto.
 A figura abaixo explica o processo que a equipe de requisitos se baseará para a montagem dos artefatos da disciplina e suas etapas.
 
-![Gráfico elucidando um ciclo de um processo da engenharia de requisitos](./../img/grafico_ciclo_requisitos.png)
+![Gráfico elucidando um ciclo de um processo da engenharia de requisitos](./img/grafico_ciclo_requisitos.png)
 
 
 ### 4.1 Elicitação de Requisitos
