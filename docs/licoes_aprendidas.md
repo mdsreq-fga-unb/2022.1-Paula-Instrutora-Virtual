@@ -45,19 +45,19 @@ Uma lição que o grupo de requisitos aprendeu foi o uso de diferentes framework
 
 A preencher.
 
-<!-- ### 5.4 Unidade 4
+### 5.4 Unidade 4
 
 #### MDS
 
-[Liste as lições aprendidas na retrospectiva, com ênfase especial nas ações a serem tomadas para melhorar, por exemplo: o ambiente de desenvolvimento, o processo ou a colaboração da equipe.]
+A preencher.
 
 #### Requisitos
 
-A primeira unidade deu ao grupo instrução para que fosse possível a escolha de uma metodologia de desenvolvimento, visto que nenhum dos integrantes possuía conhecimento sobre esse assunto e não sabia qual metodologia se encaixaria melhor no projeto.
+Uma das lições que a equipe de requisitos pode tirar desta unidade é a importância de se ter firmeza e clareza na escrita de um documento de visão, pois quando se há uma interpérie no meio da execução de um projeto, revisitar o que foi acordado lá no início deste ajuda a clarificar meios de resolver os problemas atuais do projeto, principalmente quanto à gerência dele.
 
 #### MDS-Requisitos
 
-[Liste as lições aprendidas na retrospectiva, com ênfase especial nas ações a serem tomadas para melhorar, por exemplo: o ambiente de desenvolvimento, o processo ou a colaboração da equipe.] -->
+A preencher.
 
 
 ## Histórico de Revisão
@@ -66,3 +66,4 @@ A primeira unidade deu ao grupo instrução para que fosse possível a escolha d
 | ---------- | ------ | --------- | -----
 | 11/08/2022 | 1.0    | Cria documento e preenche com as lições aprendidas nas unidades 1 e 2 | Cristian Furtado
 | 16/08/2022 | 1.1    | Preenche lições aprendidas na unidade 3 pela equipe de Requisitos | Cristian Furtado
+| 14/09/2022 | 1.2    | Preenche lições aprendidas na unidade 4 pela equipe de Requisitos | Cristian Furtado

@@ -13,7 +13,8 @@
 | Realinhamento de tarefas entre MDS e REQ e refatoração de documento com base no feedback da entrega da Unidade 3 |  22/08/2022 | Equipe de MDS e REQ |
 | Realinhamento de tarefas entre MDS e REQ |  30/08/2022 | Equipe de MDS e REQ |
 | Reunião para tirar dúvidas com o professor |  31/08/2022 | Equipe de MDS e REQ e professor |
-| Refatoração do Backlog, Framework SAFe e documentação |  05/09/2022 | Equipe de REQ | 
+| Refatoração do Backlog, Framework SAFe e documentação |  05/09/2022 | Equipe de REQ |
+| Refatoração da Documentação e organização para entrega dos artefatos da Unidade 4  |  14/09/2022 | Equipe de REQ e de MDS |
 
 <br>
 <br>
@@ -29,3 +30,4 @@
 | 22/08/2022 | 1.4 | Adiciona reunião de 22/08/2022 | Cristian Furtado |
 | 30/08/2022 | 1.5 | Adiciona reunião de 30/08/2022 | Cristian Furtado |
 | 30/08/2022 | 1.6 | Adiciona reunião de 31/08/2022 e reunião de 05/09/2022 | Cristian Furtado |
+| 14/09/2022 | 1.7 | Adiciona reunião de 14/08/2022 | Cristian Furtado |
